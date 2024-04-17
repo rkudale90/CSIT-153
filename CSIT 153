@@ -3,7 +3,7 @@
   "bindings": [
     {
       "role": "roles/bigquery.jobUser",
-      "members": [
+      "member": [
         "user:radhika.kshatriya90@gmail.com"
       ]
     }
